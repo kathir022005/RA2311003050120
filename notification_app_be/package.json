@@ -1,0 +1,11 @@
+{
+  "name": "notification-app-be",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.0",
+    "axios": "^1.7.0",
+    "dotenv": "^16.4.0",
+    "logging-middleware": "file:../logging_middleware"
+  }
+}
